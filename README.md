@@ -8,4 +8,4 @@ The player is a blue snake on a green background eating red apples. For each app
 ![snake_game_image](https://github.com/MahmoodBadr/Snake-Game/blob/main/snakegame.png?raw=true)
 
 
-Original inspiration for source code: 
+Original inspiration for source code: https://dev.to/nevulo/making-a-simple-snake-game-in-python-3dbm
